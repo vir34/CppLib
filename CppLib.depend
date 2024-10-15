@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1728941021 source:/home/vir/Projekty/CppLib/CppLib/main.cpp
+	"Drukuj.h"
+	"Frexp.h"
+	<cmath>
+
+1728896710 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/Drukarka.cpp
+	"Drukarka.h"
+
+1728914764 /home/vir/Projekty/CppLib/CppLib/include/Drukarka.h
+	<iostream>
+
+1728903222 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/Drukuj.cpp
+	"Drukuj.h"
+
+1728914669 /home/vir/Projekty/CppLib/CppLib/include/Drukuj.h
+	<DrukujZnaki.h>
+	<DrukujZnak.h>
+	<DrukujFloat.h>
+	<DrukujDouble.h>
+	<DrukujInt.h>
+
+1728902163 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/DrukujZnaki.cpp
+	"DrukujZnaki.h"
+
+1728902785 /home/vir/Projekty/CppLib/CppLib/include/DrukujZnaki.h
+	"Zadanie.h"
+	<iostream>
+
+1728900755 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/Zadanie.cpp
+	"Zadanie.h"
+
+1728902296 /home/vir/Projekty/CppLib/CppLib/include/Zadanie.h
+	<iostream>
+
+1728902526 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/DrukujFloat.cpp
+	"DrukujFloat.h"
+
+1728902574 /home/vir/Projekty/CppLib/CppLib/include/DrukujFloat.h
+	<iostream>
+
+1728905972 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/DrukujZnak.cpp
+	"DrukujZnak.h"
+
+1728906066 /home/vir/Projekty/CppLib/CppLib/include/DrukujZnak.h
+	<iostream>
+
+1728906617 /home/vir/Projekty/CppLib/CppLib/include/DrukujDouble.h
+	<iostream>
+
+1728906556 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/DrukujDouble.cpp
+	"DrukujDouble.h"
+
+1728908907 /home/vir/Projekty/CppLib/CppLib/include/DrukujInt.h
+	<iostream>
+
+1728908041 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/DrukujInt.cpp
+	"DrukujInt.h"
+
+1728909059 source:/home/vir/Projekty/CppLib/CppLib/klasy/skaner/SkanujInt.cpp
+	"SkanujInt.h"
+
+1728909141 /home/vir/Projekty/CppLib/CppLib/include/SkanujInt.h
+	<iostream>
+
+1728909359 source:/home/vir/Projekty/CppLib/CppLib/klasy/skaner/SkanujZnaki.cpp
+	"SkanujZnaki.h"
+
+1728909658 /home/vir/Projekty/CppLib/CppLib/include/SkanujZnaki.h
+	<iostream>
+
+1728912693 /home/vir/Projekty/CppLib/CppLib/include/SkanujZnak.h
+	<iostream>
+
+1728912557 source:/home/vir/Projekty/CppLib/CppLib/klasy/skaner/SkanujZnak.cpp
+	"SkanujZnak.h"
+
+1728912783 source:/home/vir/Projekty/CppLib/CppLib/klasy/skaner/SkanujFloat.cpp
+	"SkanujFloat.h"
+
+1728912911 /home/vir/Projekty/CppLib/CppLib/include/SkanujFloat.h
+	<iostream>
+
+1728912995 source:/home/vir/Projekty/CppLib/CppLib/klasy/skaner/SkanujDouble.cpp
+	"SkanujDouble.h"
+
+1728913062 /home/vir/Projekty/CppLib/CppLib/include/SkanujDouble.h
+	<iostream>
+
+1728913219 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/StrToInt.cpp
+	"StrToInt.h"
+
+1728914569 /home/vir/Projekty/CppLib/CppLib/include/StrToInt.h
+	<sstream>
+
+1728914026 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/StrToDouble.cpp
+	"StrToDouble.h"
+
+1728914405 /home/vir/Projekty/CppLib/CppLib/include/StrToDouble.h
+	<sstream>
+
+1728914267 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/StrToFloat.cpp
+	"StrToFloat.h"
+
+1728914501 /home/vir/Projekty/CppLib/CppLib/include/StrToFloat.h
+	<sstream>
+
+1728914903 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/IntToStr.cpp
+	"IntToStr.h"
+
+1728915174 /home/vir/Projekty/CppLib/CppLib/include/IntToStr.h
+	<sstream>
+
+1728915207 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/FloatToStr.cpp
+	"FloatToStr.h"
+
+1728915253 /home/vir/Projekty/CppLib/CppLib/include/FloatToStr.h
+	<sstream>
+
+1728915373 source:/home/vir/Projekty/CppLib/CppLib/klasy/konwerter/DoubleToStr.cpp
+	"DoubleToStr.h"
+
+1728915414 /home/vir/Projekty/CppLib/CppLib/include/DoubleToStr.h
+	<sstream>
+
+1728921205 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Sin.cpp
+	"Sin.h"
+
+1728922192 /home/vir/Projekty/CppLib/CppLib/include/Sin.h
+	<cmath>
+	"Wsp_pi.h"
+
+1728921844 /home/vir/Projekty/CppLib/CppLib/include/Pi.h
+
+1728921805 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Pi.cpp
+	"Pi.h"
+
+1728922162 /home/vir/Projekty/CppLib/CppLib/include/Wsp_pi.h
+	"Pi.h"
+
+1728922028 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Wsp_pi.cpp
+	"Wsp_pi.h"
+
+1728922603 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Cos.cpp
+	"Cos.h"
+
+1728924720 /home/vir/Projekty/CppLib/CppLib/include/Cos.h
+	<cmath>
+	"Wsp_pi.h"
+
+1728924865 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Tan.cpp
+	"Tan.h"
+
+1728924915 /home/vir/Projekty/CppLib/CppLib/include/Tan.h
+	<cmath>
+	"Wsp_pi.h"
+
+1728925015 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Ctg.cpp
+	"Ctg.h"
+
+1728925658 /home/vir/Projekty/CppLib/CppLib/include/Ctg.h
+	<cmath>
+	"Wsp_pi.h"
+	"Sin.h"
+	"Cos.h"
+
+1728925781 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Acos.cpp
+	"Acos.h"
+
+1728926624 /home/vir/Projekty/CppLib/CppLib/include/Acos.h
+	<cmath>
+	"Pi.h"
+
+1728926906 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Asin.cpp
+	"Asin.h"
+
+1728926985 /home/vir/Projekty/CppLib/CppLib/include/Asin.h
+	<cmath>
+	"Pi.h"
+
+1728927043 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Dodaj.cpp
+	"Dodaj.h"
+
+1728927076 /home/vir/Projekty/CppLib/CppLib/include/Dodaj.h
+
+1728927186 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Odejmij.cpp
+	"Odejmij.h"
+
+1728927207 /home/vir/Projekty/CppLib/CppLib/include/Odejmij.h
+
+1728927273 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Pomnoz.cpp
+	"Pomnoz.h"
+
+1728927299 /home/vir/Projekty/CppLib/CppLib/include/Pomnoz.h
+
+1728927386 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Podziel.cpp
+	"Podziel.h"
+
+1728927419 /home/vir/Projekty/CppLib/CppLib/include/Podziel.h
+
+1728927642 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Reszta.cpp
+	"Reszta.h"
+
+1728928026 /home/vir/Projekty/CppLib/CppLib/include/Reszta.h
+	<cmath>
+
+1728928157 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Atan.cpp
+	"Atan.h"
+
+1728928253 /home/vir/Projekty/CppLib/CppLib/include/Atan.h
+	<cmath>
+	"Pi.h"
+
+1728928340 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Atan2.cpp
+	"Atan2.h"
+
+1728928463 /home/vir/Projekty/CppLib/CppLib/include/Atan2.h
+	<cmath>
+	"Pi.h"
+
+1728934262 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Cosh.cpp
+	"Cosh.h"
+
+1728934398 /home/vir/Projekty/CppLib/CppLib/include/Cosh.h
+	<cmath>
+
+1728934620 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Sinh.cpp
+	"Sinh.h"
+
+1728934688 /home/vir/Projekty/CppLib/CppLib/include/Sinh.h
+	<cmath>
+
+1728934806 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Tanh.cpp
+	"Tanh.h"
+
+1728934860 /home/vir/Projekty/CppLib/CppLib/include/Tanh.h
+	<cmath>
+
+1728934944 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Acosh.cpp
+	"Acosh.h"
+
+1728934993 /home/vir/Projekty/CppLib/CppLib/include/Acosh.h
+	<cmath>
+
+1728935632 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Asinh.cpp
+	"Asinh.h"
+
+1728935682 /home/vir/Projekty/CppLib/CppLib/include/Asinh.h
+	<cmath>
+
+1728935804 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Atanh.cpp
+	"Atanh.h"
+
+1728935859 /home/vir/Projekty/CppLib/CppLib/include/Atanh.h
+	<cmath>
+
+1728938432 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Exp.cpp
+	"Exp.h"
+
+1728938569 /home/vir/Projekty/CppLib/CppLib/include/Exp.h
+	<cmath>
+
+1728940196 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Frexp.cpp
+	"Frexp.h"
+
+1728941124 /home/vir/Projekty/CppLib/CppLib/include/Frexp.h
+	<cmath>
+
+1728941355 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Ldexp.cpp
+	"Ldexp.h"
+
+1728941421 /home/vir/Projekty/CppLib/CppLib/include/Ldexp.h
+	<cmath>
+

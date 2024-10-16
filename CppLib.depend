@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1728941021 source:/home/vir/Projekty/CppLib/CppLib/main.cpp
+1729099046 source:/home/vir/Projekty/CppLib/CppLib/main.cpp
 	"Drukuj.h"
-	"Frexp.h"
+	"Nexttoward.h"
 	<cmath>
 
 1728896710 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/Drukarka.cpp
@@ -270,5 +270,239 @@
 	"Ldexp.h"
 
 1728941421 /home/vir/Projekty/CppLib/CppLib/include/Ldexp.h
+	<cmath>
+
+1728986998 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Log.cpp
+	"Log.h"
+
+1728987051 /home/vir/Projekty/CppLib/CppLib/include/Log.h
+	<cmath>
+
+1728987145 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Log10.cpp
+	"Log10.h"
+
+1728987188 /home/vir/Projekty/CppLib/CppLib/include/Log10.h
+	<cmath>
+
+1728987281 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Modf.cpp
+	"Modf.h"
+
+1728987636 /home/vir/Projekty/CppLib/CppLib/include/Modf.h
+	<cmath>
+
+1728987725 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Exp2.cpp
+	"Exp2.h"
+
+1728987772 /home/vir/Projekty/CppLib/CppLib/include/Exp2.h
+	<cmath>
+
+1728987872 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Expm1.cpp
+	"Expm1.h"
+
+1728987954 /home/vir/Projekty/CppLib/CppLib/include/Expm1.h
+	<cmath>
+
+1728988056 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Ilogb.cpp
+	"Ilogb.h"
+
+1728988123 /home/vir/Projekty/CppLib/CppLib/include/Ilogb.h
+	<cmath>
+
+1728988195 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Log1p.cpp
+	"Log1p.h"
+
+1728988265 /home/vir/Projekty/CppLib/CppLib/include/Log1p.h
+	<cmath>
+
+1728988428 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Log2.cpp
+	"Log2.h"
+
+1728988515 /home/vir/Projekty/CppLib/CppLib/include/Log2.h
+	<cmath>
+
+1728994714 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Logb.cpp
+	"Logb.h"
+
+1728994769 /home/vir/Projekty/CppLib/CppLib/include/Logb.h
+	<cmath>
+
+1728994836 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Scalbn.cpp
+	"Scalbn.h"
+
+1728994941 /home/vir/Projekty/CppLib/CppLib/include/Scalbn.h
+	<cmath>
+
+1728995070 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Scalbln.cpp
+	"Scalbln.h"
+
+1728995115 /home/vir/Projekty/CppLib/CppLib/include/Scalbln.h
+	<cmath>
+
+1728995236 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Pow.cpp
+	"Pow.h"
+
+1728995277 /home/vir/Projekty/CppLib/CppLib/include/Pow.h
+	<cmath>
+
+1728995352 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Sqrt.cpp
+	"Sqrt.h"
+
+1728995415 /home/vir/Projekty/CppLib/CppLib/include/Sqrt.h
+	<cmath>
+
+1728995496 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Cbrt.cpp
+	"Cbrt.h"
+
+1728995558 /home/vir/Projekty/CppLib/CppLib/include/Cbrt.h
+	<cmath>
+
+1728995627 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Hypot.cpp
+	"Hypot.h"
+
+1728995677 /home/vir/Projekty/CppLib/CppLib/include/Hypot.h
+	<cmath>
+
+1728995966 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Erf.cpp
+	"Erf.h"
+
+1728996013 /home/vir/Projekty/CppLib/CppLib/include/Erf.h
+	<cmath>
+
+1728996078 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Erfc.cpp
+	"Erfc.h"
+
+1729010584 /home/vir/Projekty/CppLib/CppLib/include/Erfc.h
+	<cmath>
+
+1729013261 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Tgamma.cpp
+	"Tgamma.h"
+
+1729013311 /home/vir/Projekty/CppLib/CppLib/include/Tgamma.h
+	<cmath>
+
+1729017404 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Ceil.cpp
+	"Ceil.h"
+
+1729017466 /home/vir/Projekty/CppLib/CppLib/include/Ceil.h
+	<cmath>
+
+1729017040 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Floor.cpp
+	"Floor.h"
+
+1729017101 /home/vir/Projekty/CppLib/CppLib/include/Floor.h
+	<cmath>
+
+1729017186 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fmod.cpp
+	"Fmod.h"
+
+1729017300 /home/vir/Projekty/CppLib/CppLib/include/Fmod.h
+	<cmath>
+
+1729017782 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Trunc.cpp
+	"Trunc.h"
+
+1729017830 /home/vir/Projekty/CppLib/CppLib/include/Trunc.h
+	<cmath>
+
+1729017906 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Round.cpp
+	"Round.h"
+
+1729017948 /home/vir/Projekty/CppLib/CppLib/include/Round.h
+	<cmath>
+
+1729018026 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Lround.cpp
+	"Lround.h"
+
+1729018066 /home/vir/Projekty/CppLib/CppLib/include/Lround.h
+	<cmath>
+
+1729019514 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Llround.cpp
+	"Llround.h"
+
+1729019582 /home/vir/Projekty/CppLib/CppLib/include/Llround.h
+	<cmath>
+
+1729019658 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Rint.cpp
+	"Rint.h"
+
+1729019710 /home/vir/Projekty/CppLib/CppLib/include/Rint.h
+	<cmath>
+
+1729019883 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Lrint.cpp
+	"Lrint.h"
+
+1729019923 /home/vir/Projekty/CppLib/CppLib/include/Lrint.h
+	<cmath>
+
+1729019990 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Llrint.cpp
+	"Llrint.h"
+
+1729020025 /home/vir/Projekty/CppLib/CppLib/include/Llrint.h
+	<cmath>
+
+1729020132 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Nearbyint.cpp
+	"Nearbyint.h"
+
+1729020173 /home/vir/Projekty/CppLib/CppLib/include/Nearbyint.h
+	<cmath>
+
+1729026187 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Reminder.cpp
+	"Reminder.h"
+
+1729026372 /home/vir/Projekty/CppLib/CppLib/include/Reminder.h
+	<cmath>
+
+1729071803 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Remquo.cpp
+	"Remquo.h"
+
+1729071954 /home/vir/Projekty/CppLib/CppLib/include/Remquo.h
+	<cmath>
+
+1729098193 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Copysign.cpp
+	"Copysign.h"
+
+1729098297 /home/vir/Projekty/CppLib/CppLib/include/Copysign.h
+	<cmath>
+
+1729098540 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Nextafter.cpp
+	"Nextafter.h"
+
+1729098927 /home/vir/Projekty/CppLib/CppLib/include/Nextafter.h
+	<cmath>
+
+1729098986 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Nexttoward.cpp
+	"Nexttoward.h"
+
+1729099062 /home/vir/Projekty/CppLib/CppLib/include/Nexttoward.h
+	<cmath>
+
+1729099121 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fdim.cpp
+	"Fdim.h"
+
+1729099159 /home/vir/Projekty/CppLib/CppLib/include/Fdim.h
+	<cmath>
+
+1729099824 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fmax.cpp
+	"Fmax.h"
+
+1729099868 /home/vir/Projekty/CppLib/CppLib/include/Fmax.h
+	<cmath>
+
+1729099947 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fmin.cpp
+	"Fmin.h"
+
+1729099977 /home/vir/Projekty/CppLib/CppLib/include/Fmin.h
+	<cmath>
+
+1729100047 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fabs.cpp
+	"Fabs.h"
+
+1729100104 /home/vir/Projekty/CppLib/CppLib/include/Fabs.h
+	<cmath>
+
+1729100201 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Abs.cpp
+	"Abs.h"
+
+1729100238 /home/vir/Projekty/CppLib/CppLib/include/Abs.h
 	<cmath>
 

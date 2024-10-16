@@ -1,5 +1,5 @@
 #include "Drukuj.h"
-#include "Ldexp.h"
+#include "Abs.h"
 
 #include <cmath>
 
@@ -7,9 +7,9 @@ int main()
 {
     Drukuj drukuj;
 
-    Ldexp dzialanie;
-    float x = 0.95, y = 4;
-    float wynik = dzialanie.wykonaj(x, y);
+    Abs dzialanie;
+    float x = 4.94;
+    float wynik = dzialanie.wykonaj(x);
     drukuj.wykonaj("Wynik: ").wykonaj(wynik);
 
     return 0;

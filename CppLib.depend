@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1729099046 source:/home/vir/Projekty/CppLib/CppLib/main.cpp
+1729179247 source:/home/vir/Projekty/CppLib/CppLib/main.cpp
 	"Drukuj.h"
-	"Nexttoward.h"
+	"tablice/StwTab.h"
+	"tablice/ZwElTab.h"
 	<cmath>
+	<iostream>
 
 1728896710 source:/home/vir/Projekty/CppLib/CppLib/klasy/drukarka/Drukarka.cpp
 	"Drukarka.h"
@@ -505,4 +507,51 @@
 
 1729100238 /home/vir/Projekty/CppLib/CppLib/include/Abs.h
 	<cmath>
+
+1729100630 source:/home/vir/Projekty/CppLib/CppLib/klasy/fizyka/Fma.cpp
+	"Fma.h"
+
+1729100687 /home/vir/Projekty/CppLib/CppLib/include/Fma.h
+	<cmath>
+
+1729103783 source:/home/vir/Projekty/CppLib/CppLib/klasy/tablice/StwTab.cpp
+	"StwTab.h"
+
+1729179228 /home/vir/Projekty/CppLib/CppLib/include/tablice/StwTab.h
+	<iostream>
+	<vector>
+	<ZwPopRozTab.h>
+
+1729158903 source:/home/vir/Projekty/CppLib/CppLib/klasy/tablice/ZwRozmTab.cpp
+	"ZwRozmTab.h"
+
+1729159543 /home/vir/Projekty/CppLib/CppLib/include/tablice/ZwRozmTab.h
+	<iostream>
+	<vector>
+
+1729160018 source:/home/vir/Projekty/CppLib/CppLib/klasy/tablice/ZwElTab.cpp
+	"ZwElTab.h"
+
+1729159881 /home/vir/Projekty/CppLib/CppLib/include/ZwElTab.h
+	<iostream>
+	<vector>
+
+1729162200 /home/vir/Projekty/CppLib/CppLib/include/tablice/ZwElTab.h
+	<iostream>
+	<vector>
+	<ZwPopIndTab.h>
+
+1729161912 source:/home/vir/Projekty/CppLib/CppLib/klasy/tablice/ZwPopIndTab.cpp
+	"ZwPopIndTab.h"
+
+1729163194 /home/vir/Projekty/CppLib/CppLib/include/tablice/ZwPopIndTab.h
+	<iostream>
+	<vector>
+
+1729163371 /home/vir/Projekty/CppLib/CppLib/include/tablice/ZwPopRozTab.h
+	<iostream>
+	<vector>
+
+1729163265 source:/home/vir/Projekty/CppLib/CppLib/klasy/tablice/ZwPopRozTab.cpp
+	"ZwPopRozTab.h"
 

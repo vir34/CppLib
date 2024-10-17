@@ -1,16 +1,22 @@
 #include "Drukuj.h"
-#include "Abs.h"
+#include "tablice/StwTab.h"
+#include "tablice/ZwElTab.h"
 
 #include <cmath>
+#include <iostream>
 
 int main()
 {
     Drukuj drukuj;
 
-    Abs dzialanie;
-    float x = 4.94;
-    float wynik = dzialanie.wykonaj(x);
-    drukuj.wykonaj("Wynik: ").wykonaj(wynik);
+    StwTab stwTab;
+    ZwElTab zwElTab;
+
+    std::vector <std::string> tab = stwTab.wykonaj(-10, " ");
+
+    std::string element = zwElTab.wykonaj(tab, 0);
+
+    drukuj.wykonaj("Wynik: ").wykonaj( element );
 
     return 0;
 }
